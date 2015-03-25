@@ -1,4 +1,9 @@
-var screen1 = document.getElementById("screen1"),
+/*******************************
+skeleton of a simple paralax scroll 
+
+*******************************/
+
+var screen1 = document.getElementById(""),
     title = document.getElementById("title"),
     lightbulb = document.getElementById("lightbulb"),
     slow = 4,
